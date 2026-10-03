@@ -1,0 +1,5 @@
+Research and Educational Use License
+This software(binaries and scripts) is provided solely for non-commercial research and educational purposes.
+Redistribution, commercial use, incorporation into commercial software, products, or services, and use in connection with commercial services are not permitted without prior written authorization.
+For commercial use or licensing inquiries, please contact RIKEN or the project maintainer.
+All rights not expressly granted herein are reserved.
